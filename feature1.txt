@@ -14,7 +14,10 @@ git fetch ->
 git push -> empujar commit 
 git pull ->traer commit
 git add [name] -> poner el archivo en stage listo para subir 
+
+
 git add. -> mandar a stage todos los archivos en carpeta
 
 :qw -> para guardar en vi
 
+como salir

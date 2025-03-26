@@ -1,4 +1,4 @@
-#Prueba 26032025 comandos Git
+Prueba 26032025 comandos Git
 Comandos GIT
 git status -> visualización de ficheros
 git commit -> subir fichero
@@ -19,9 +19,18 @@ git add [name] -> poner el archivo en stage listo para subir
 git add. -> mandar a stage todos los archivos en carpeta
 git rm -> eliminar 
 
+git status -s (Con flag) para ver archivos en stage más corto
+
+.gitignore -> aplica para diferenciar archivos a ignorar 
+
+git diff -> ver modificiaciones generadas en los archivos linea a linea sin commit
+git diff --staged -> cambios en etapa de commit
+
+
 :qw -> para guardar en vi
 
 
 Comandos consola: 
 s-escribir? 
+
 

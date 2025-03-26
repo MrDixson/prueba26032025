@@ -1,0 +1,20 @@
+#Prueba 26032025 comandos Git
+Comandos GIT
+git status -> visualización de ficheros
+git commit -> subir fichero
+git branch -M main -> Cambiar nombre de la master a main
+git checkout [name fichero]-> vuelve el fichero al ultimo commit
+git log --graph -> visualización linea del commit
+touch .gitignore -> para vincular un fichero que no quiero usar
+git branch [name] -> crear rama
+git checkout [name] -> hace referencia a ubicarse en la rama
+git merge -> unir ramas
+git branch -r -> ver ramas
+git fetch ->
+git push -> empujar commit 
+git pull ->traer commit
+git add [name] -> poner el archivo en stage listo para subir 
+git add. -> mandar a stage todos los archivos en carpeta
+
+:qw -> para guardar en vi
+
